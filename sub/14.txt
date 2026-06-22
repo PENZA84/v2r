@@ -1,0 +1,17 @@
+#profile-title: base64:8J+OgSBGcmVlIFByb3h5IHwgU3ViIDE0IPCfjI4=
+#profile-update-interval: 1
+#subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
+#support-url: https://github.com/liMilCo/v2r
+#profile-web-page-url: https://limilco.github.io/v2r/
+vmess://eyJhZGQiOiIxMDQuMTcuMTIxLjQzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJvbWt1enlnaXYuY29tIiwiaWQiOiJlOTk0N2I0Mi0yN2VkLTQwMWUtYjc1ZS1jOWViZDM1N2MwZjMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HqfCfh6oiLCJzY3kiOiJhdXRvIiwic25pIjoib21rdXp5Z2l2LmNvbSIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
+vless://bc52c632-5549-4f23-9037-27d7d8c2cec6@biography.com:80?path=%2Fdownload&amp;security=&amp;encryption=none&amp;host=melovy.ir&amp;type=ws#🔥Join+Telegram:@Farah_VPN🟣
+vless://0cb903e2-66a6-4e58-9793-1049b0620962@all1.biglarcloud.top:40133?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=mi3OBPh700LICGzHTJlNqnrR-ELAdHrlmGrfCuVs-lg&sid=9ae55799562bc397&spx=/xlb391qKg28zDWw&type=grpc#@Daily_Configs
+vless://1cf6cae1-e402-412b-954c-8b8c27cbdac4@forallpanel.srtongston.ir:8880?path=/?ed=2082&security=&encryption=none&host=Cdn8-pro.postshup.ir.&type=httpupgrade#⚡@V2ray_official
+vless://2c12b871-1f63-4ebe-853c-d4d51fc10446@de1.gamelistak.com:443?alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&fp=chrome&host=de1.gamelistak.com&mode=auto&path=/@MrNexTV2RAY&security=tls&sni=&type=xhttp&x_padding_bytes=100-1000#@MrNexTV2RAY
+vless://2cc64cad-1a77-4a40-8d98-3834a95d0a44@65.109.189.154:2052?security=none&encryption=none&host=/@Net2ray&headerType=none&type=tcp#🧡 @Net2ray
+vless://turboo-server@chatgpt.com:443?path=%2Fturbooserver&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;insecure=0&amp;host=server.aftabz.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=server.aftabz.com#🔥Join+Telegram:@Farah_VPN🟣
+vless://88c5b660-e683-4a5b-b708-acbca1b99c43@104.16.174.118:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&host=usa.homairasisi.ir&fp=chrome&type=xhttp&sni=usa.homairasisi.ir#⚡@V2ray_official
+سرور اختصاصی برای V2RAY🤍سیستم عامل : 📱💻🍎سرعت : 120ping⚡حجم:200GB😀همراه اول و مخابرات😍😎vless://7da3d642-4e81-4527-827d-3f3f0fc6f8e8@VPNCUSTOMIZE2.ddns.net:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@VPNCUSTOMIZE&sni=ch.loveislam.top#MCI+%7C+%40VPNCUSTOMIZE+%7C+100GBایرانسل و رایتل 😂☑️vless://a86edc0f-90e9-41fa-a710-207087f0bcc6@VPNCUSTOMIZE.ddns.net:2096?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@VPNCUSTOMIZE&sni=ch.loveislam.top#MTN+%7C+%40VPNCUSTOMIZE+%7C+200GBبرنامه مورد نیاز   اگه سرور مشکلی داره تو کامنت ها بگین🇩🇪بعد اتصال چندبار رو پینگ بزنید 🌐 سرور متصله ولی شاید به شما پینگ نشون نده🔥🤝بعد اتصال بیان تلگرام رو چک کنید💯اسکی مجازه ولی لطفاً اسم سرور رو چنج نزنید🍆°Channel°: @VPNCUSTOMIZE°Group°: @CUSTOMGAP°trust +5m pay° :@VPNCUSTOMIZE2🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤
+vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@69.84.182.219:443?path=/?ed&security=tls&encryption=none&type=ws&sni=ve.ylkszy.eu.org#@Hope_Net-join-us-on-Telegram
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@20.50.123.173:443#https://t.me/v2rayNplus |🇬🇧
+vless://6c22648a-18f5-4249-9ace-72a1639d4190@saleh.velizor.ir:5020?security=reality&encryption=none&pbk=okCWIaLm7TQJ-c4JgqDkJa_1CRaT9LfdGV9vzHsUD3Y&headerType=&fp=chrome&spx=/OyN3bEKyCzKXSF7&type=tcp&sni=news.microsoft.com&sid=8d#⚡@V2ray_official
